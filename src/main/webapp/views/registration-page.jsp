@@ -17,7 +17,7 @@
 </head>
 <body>
 
-	<h1 align="center">Registration page</h1>
+	<h1 align="center">Registration Page</h1>
 
 	<form:form action="registration-success" method="GET" align="center"
 		modelAttribute="userReg">
